@@ -33,4 +33,4 @@ def decrypt(text, dec_key):
 
 abd = encrypt(in_put)
 print(f"Encrypted: {abd}")
-print(decrypt(abd, input("Key: ")))
+print(f'Decrypted: {decrypt(abd, input("Key: "))}')
