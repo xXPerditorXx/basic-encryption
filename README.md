@@ -21,17 +21,15 @@ The encrypted message is already in the script's cache, so you only need to ente
 And now you have successfully encrypted as well as decrypted a text.
 
 # Example
-`Text to Encrypt: That's a test text!`
+`*Text to Encrypt:* This is a simple script to encrypt and decrypt a message.`
 
-`Encryption-Key: "P :K*N(}DrX€FvM°i.'BZ4#cjytGO~uY>0p1=/7kq@LSn$;R<V6?Q,gzÄ9lxA+Höµ{w!Ue§EfWm|ÖdashJ\ü^I3_]82C%5bÜ)o[&Tä-`
+`*Encryption-Key:* "padXYnD€S0#K(*9µ{v:P;kbOTÖ<_jGVm>BZ6gRWC58L+l1M$Us.iHyf[§2J|3}x%)?üä=Nqö7]4,I°Äc~FEQ&w/u!-^tzrAÜ\h@o'e `
 
-`Encrypted: n("'s.-"-'K.'-'K#'!`
+`*Encrypted:* lD€v €v " v€K9#X va{€9: :* X(a{O9: "(d dXa{O9: " KXvv"nXA`
 
-`Key: "P :K*N(}DrX€FvM°i.'BZ4#cjytGO~uY>0p1=/7kq@LSn$;R<V6?Q,gzÄ9lxA+Höµ{w!Ue§EfWm|ÖdashJ\ü^I3_]82C%5bÜ)o[&Tä-`
+`*Decryption-Key:* "padXYnD€S0#K(*9µ{v:P;kbOTÖ<_jGVm>BZ6gRWC58L+l1M$Us.iHyf[§2J|3}x%)?üä=Nqö7]4,I°Äc~FEQ&w/u!-^tzrAÜ\h@o'e `
 
-`Decrypted: That's a test text!`
-
-`Process finished with exit code 0`
+`*Decrypted:* This is a simple script to encrypt and decrypt a message.`
 
 # How it works
 *Coming soon*
