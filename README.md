@@ -21,15 +21,15 @@ The encrypted message is already in the script's cache, so you only need to ente
 And now you have successfully encrypted as well as decrypted a text.
 
 # Example
-`*Text to Encrypt:* This is a simple script to encrypt and decrypt a message.`
+`Text to Encrypt: This is a simple script to encrypt and decrypt a message.`
 
-`*Encryption-Key:* "padXYnD€S0#K(*9µ{v:P;kbOTÖ<_jGVm>BZ6gRWC58L+l1M$Us.iHyf[§2J|3}x%)?üä=Nqö7]4,I°Äc~FEQ&w/u!-^tzrAÜ\h@o'e `
+`Encryption-Key: "padXYnD€S0#K(*9µ{v:P;kbOTÖ<_jGVm>BZ6gRWC58L+l1M$Us.iHyf[§2J|3}x%)?üä=Nqö7]4,I°Äc~FEQ&w/u!-^tzrAÜ\h@o'e `
 
-`*Encrypted:* lD€v €v " v€K9#X va{€9: :* X(a{O9: "(d dXa{O9: " KXvv"nXA`
+`Encrypted: lD€v €v " v€K9#X va{€9: :* X(a{O9: "(d dXa{O9: " KXvv"nXA`
 
-`*Decryption-Key:* "padXYnD€S0#K(*9µ{v:P;kbOTÖ<_jGVm>BZ6gRWC58L+l1M$Us.iHyf[§2J|3}x%)?üä=Nqö7]4,I°Äc~FEQ&w/u!-^tzrAÜ\h@o'e `
+`Decryption-Key: "padXYnD€S0#K(*9µ{v:P;kbOTÖ<_jGVm>BZ6gRWC58L+l1M$Us.iHyf[§2J|3}x%)?üä=Nqö7]4,I°Äc~FEQ&w/u!-^tzrAÜ\h@o'e `
 
-`*Decrypted:* This is a simple script to encrypt and decrypt a message.`
+`Decrypted: This is a simple script to encrypt and decrypt a message.`
 
 # How it works
 *Coming soon*
