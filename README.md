@@ -16,4 +16,4 @@ I'm always open for suggestions, so if anyone has any, please let me know.
 
 `Decrypted: That's a test text!`
 
-Process finished with exit code 0`
+`Process finished with exit code 0`
