@@ -32,4 +32,4 @@ And now you have successfully encrypted as well as decrypted a text.
 `Decrypted: This is a simple script to encrypt and decrypt a message.`
 
 # How it works
-*Coming soon*
+*Coming some time*
